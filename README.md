@@ -14,6 +14,6 @@ py -3.12 -m venv .venv
 
 Open http://127.0.0.1:5000, upload an image, and click **Extract text**. These commands use the virtual environment directly.
 
-## Notion File
+## Notion Link
 
 https://dust-seagull-cdd.notion.site/OCR-Implementation-3e9dc39ce06a80e4b8c0d2c9fa7e6452
